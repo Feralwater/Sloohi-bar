@@ -1,3 +1,3 @@
 # SLOOHI BAR
-First mockup I totally did by my own 
+First mockup I totally did on my own 
 🔧 HTML5, CSS, JS
